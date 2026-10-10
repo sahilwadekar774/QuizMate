@@ -35,7 +35,7 @@ This screen displays the multiple-choice questions generated from the uploaded s
 
 After submitting the quiz, users can view their score, percentage, and explanations for the answers.
 
-![QuizMate Quiz Results](screenshots/results.png)
+![QuizMate Quiz Results](screenshots/result.png)
 
 ---
 
